@@ -17,13 +17,13 @@ To get started with the Hangman Game, follow these steps:
 pip install requests
 ```
 
-1. **Clone** the repository:
+2. **Clone** the repository:
 
 ```sh
 git clone https://github.com/resole79/hangman.git
 ```
 
-2. **Run** the **hangman.py** file:
+3. **Run** the **hangman.py** file:
 
 ```sh
 python3 hangman.py
