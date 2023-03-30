@@ -30,8 +30,8 @@ python3 hangman.py
 ```     
 
 #### *File Structure*
- - hangman.py: Main program.
- - art.py : File contains the draws
+ - **hangman.py**: Main program.
+ - **art.py** : File contains the draws
 
 
 #### **Usage**
